@@ -1,0 +1,15 @@
+F:\Docs\Programs\OOP C#\MediaInventory\bin\Debug\net7.0\MediaInventory.exe
+F:\Docs\Programs\OOP C#\MediaInventory\bin\Debug\net7.0\MediaInventory.deps.json
+F:\Docs\Programs\OOP C#\MediaInventory\bin\Debug\net7.0\MediaInventory.runtimeconfig.json
+F:\Docs\Programs\OOP C#\MediaInventory\bin\Debug\net7.0\MediaInventory.dll
+F:\Docs\Programs\OOP C#\MediaInventory\bin\Debug\net7.0\MediaInventory.pdb
+F:\Docs\Programs\OOP C#\MediaInventory\obj\Debug\net7.0\MediaInventory.csproj.AssemblyReference.cache
+F:\Docs\Programs\OOP C#\MediaInventory\obj\Debug\net7.0\MediaInventory.GeneratedMSBuildEditorConfig.editorconfig
+F:\Docs\Programs\OOP C#\MediaInventory\obj\Debug\net7.0\MediaInventory.AssemblyInfoInputs.cache
+F:\Docs\Programs\OOP C#\MediaInventory\obj\Debug\net7.0\MediaInventory.AssemblyInfo.cs
+F:\Docs\Programs\OOP C#\MediaInventory\obj\Debug\net7.0\MediaInventory.csproj.CoreCompileInputs.cache
+F:\Docs\Programs\OOP C#\MediaInventory\obj\Debug\net7.0\MediaInventory.dll
+F:\Docs\Programs\OOP C#\MediaInventory\obj\Debug\net7.0\refint\MediaInventory.dll
+F:\Docs\Programs\OOP C#\MediaInventory\obj\Debug\net7.0\MediaInventory.pdb
+F:\Docs\Programs\OOP C#\MediaInventory\obj\Debug\net7.0\MediaInventory.genruntimeconfig.cache
+F:\Docs\Programs\OOP C#\MediaInventory\obj\Debug\net7.0\ref\MediaInventory.dll
